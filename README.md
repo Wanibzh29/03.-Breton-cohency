@@ -9,7 +9,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 - Contact of the project owner: per.morvan.bzh29@gmail.com.
 
 ## II. Description
-Breton words that have two valid spellings.
+A list of Breton words that have two valid spellings.
 
 ## III. This work is based on
 - The cohency set of the LanguageTool project: https://github.com/languagetool-org/languagetool/blob/3791ed26beccfa1aaa4be73811b172a2e7044157/languagetool-language-modules/en/src/main/resources/org/languagetool/rules/en/coherency.txt
